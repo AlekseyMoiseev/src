@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/dcm4che-core-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/dcm4che-image-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/dcm4che-imageio-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/dcm4che-imageio-rle-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/dcm4che-iod-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/dcm4che-net-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/dcm4che-tool-dcmecho-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/dcm4che-tool-dcmqr-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/dcm4che-tool-dcmrcv-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/dcm4che-tool-dcmwado-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/filedrop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/forms-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/imagej_3d_viewer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/l2fprod-common-buttonbar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/loci_tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/lu.tudor.santec.i18n.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/lu.tudor.santec.settings.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/lu.tudor.santec.widgets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/pixelmed_patched_doseocr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/poi-3.5-final-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/postgresql-8.4-701.jdbc3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alekseymoiseev/Downloads/tudordicom_sources_1.9.30/plugins/TudorDICOMLibs/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/source"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
